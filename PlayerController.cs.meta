@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 47e50b5f1c61ccd4ab73cf83d967f70c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  - rifleStart: {instanceID: 0}
+  - HpText: {instanceID: 0}
+  - GameOver: {instanceID: 0}
+  - Victory: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
